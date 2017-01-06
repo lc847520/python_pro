@@ -1,0 +1,7 @@
+#!/usr/bin/python 
+
+import os
+
+if __main__():
+    print "sssss"
+    

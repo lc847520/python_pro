@@ -1,0 +1,70 @@
+-- VERSION_4
+-- START DISKCACHE
+D:\home\my_project\python_pro\.metadata\.plugins\org.eclipse.core.resources\.projects\py_pro\com.python.pydev.analysis\v2_indexcache
+deco|1428136109968|D:\home\my_project\python_pro\py_pro\src\deco.py
+test|1430466430851|D:\home\my_project\python_pro\py_pro\src\test.py
+bookEntry|1428134487194|D:\home\my_project\python_pro\py_pro\src\bookEntry.py
+ctype_test|1431527172595|D:\home\my_project\python_pro\py_pro\src\ctype_test.py
+-- END DISKCACHE
+-- START DICTIONARY
+19
+4=deco
+7=ProtectAndHidex
+3=test
+16=EmpAddrBookEntry.updateEmail
+14=Grok
+8=Circlet
+9=Foo
+12=ProtectAndHidex.x
+10=ProtectAndHidex.__init__
+1=ctype_test
+15=EmpAddrBookEntry.__init__
+18=AddrBookEntry.updatePhone
+2=bookEntry
+6=EmpAddrBookEntry
+17=AddrBookEntry.__init__
+5=AddrBookEntry
+19=Circlet.__init__
+11=ProtectAndHidex.set_x
+13=beer_recipe
+-- END DICTIONARY
+-- START TREE 1
+17
+a|1|a!11@
+add|1|AddrBookEntry!17@
+b|1|b!11@
+bee|1|beer_recipe!9@
+cir|1|Circlet!25@
+dec|1|deco!34@
+emp|1|EmpAddrBookEntry!17@
+foo|1|Foo!25@
+fun|1|fun_log!18@
+gre|1|greeter!18@
+gro|1|Grok!25@
+mes|1|message_string!11@
+msv|1|msvcrt!11@
+my_|2|my_func!26@my_beer!11@
+myf|2|myfunc!34@myfunc2!34@
+pro|1|ProtectAndHidex!25@
+str|1|str_p!11@
+-- END TREE
+-- START TREE 2
+17
+__i|4|__init__!5&18@__init__!6&18@__init__!7&26@__init__!8&26@
+__m|1|__metaclass__!9&27@
+__x|3|__x!10&27@__x!11&27@__x!12&27@
+_fi|1|_fields_!13&11@
+are|1|area!8&26@
+c|1|c!14&27@
+ema|2|email!15&19@email!16&19@
+emp|1|empid!15&19@
+get|1|get_x!7&26@
+nam|2|name!9&26@name!17&19@
+per|1|perimeter!8&26@
+pho|2|phone!17&19@phone!18&19@
+rad|1|radius!19&27@
+set|1|set_x!7&26@
+spa|2|spam!9&26@spam!14&26@
+upd|2|updateEmail!6&18@updatePhone!5&18@
+x|1|x!7&26@
+-- END TREE
