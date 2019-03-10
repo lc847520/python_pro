@@ -4,6 +4,7 @@ import math
 from builtins import isinstance
 from abc import ABCMeta, abstractmethod, abstractproperty
 
+#add pprotect
 class ProtectAndHidex(object):
     def __init__(self, x):
         assert isinstance(x, int), "x must be an integer."
